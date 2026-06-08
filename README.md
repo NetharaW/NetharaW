@@ -16,7 +16,11 @@
 - LinkedIn: https://www.linkedin.com/in/nethara-nimangi/
 - Email: netharanimangi.27@gmail.com
 
-- 🔭 I’m currently working on building an app -  Business Ordering & Inventory Management System
+ 
+
+## 📫 More Projects
+
+I’m currently working on building an app -  Business Ordering & Inventory Management System
 
 BizOrder is an e-commerce style ordering system designed for small businesses.
 It enables customers to browse products and place orders, while business owners can manage inventory and process orders from a dashboard.
