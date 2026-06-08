@@ -18,7 +18,7 @@
 
  
 
-## 📫 More Projects
+## ⏳ More Projects
 
 I’m currently working on building an app -  Business Ordering & Inventory Management System
 
