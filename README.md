@@ -1,7 +1,8 @@
 # Hi, I'm Nethara 👋
 
 🎓 Computer Science Graduate  
-💻 Interested in Software Engineering, AI, and Full-Stack Development  
+💻 Interested in Software Engineering, AI, and Full-Stack Development
+I'm currently an AI Intern at Mannai IT Solutions Department, Qatar.
 
 ## 🛠️ Tech Stack
 - Languages: Python, Java, JavaScript, C++
@@ -15,7 +16,7 @@
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/nethara-nimangi/
 - Email: netharanimangi.27@gmail.com
-
+- Portfolio: https://netharaw.github.io/
  
 
 ## ⏳ More Projects
