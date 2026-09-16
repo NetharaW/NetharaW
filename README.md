@@ -2,7 +2,9 @@
 
 🎓 Computer Science Graduate  
 💻 Interested in Software Engineering, AI, and Full-Stack Development
-⚡ I'm currently an AI Intern at Mannai IT Solutions Department, Qatar.
+ 
+⚡ I'm currently an AI Intern at Mannai IT Solutions Department, Qatar
+
 
 ## 🛠️ Tech Stack
 - Languages: Python, Java, JavaScript, C++
