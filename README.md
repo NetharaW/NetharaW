@@ -181,41 +181,6 @@ A personal journaling web application designed to let users create and manage th
 
 ---
 
-# 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NetharaW&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetharaW&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=NetharaW&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NetharaW&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/NetharaW/NetharaW/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 # 🌐 Let's Connect
 
