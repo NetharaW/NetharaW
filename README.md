@@ -190,18 +190,26 @@ A mobile application for exploring and learning about vehicles.
 
 </td>
 
+
 <td width="50%">
 
 <h3>📖 My Journal</h3>
 
-A personal journaling web application designed to let users create and manage their journal entries.
+A personal journaling web application where users can create, manage, and organize their journal entries.
+
+<br>
+
+<a href="https://my-journal-one-virid.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-A855F7?style=for-the-badge"/>
+</a>
 
 ### Features
 
-* ✍️ Create entries
-* 📚 Manage entries
-* 🗂️ Organized journal
-* 💾 Local data storage
+- ✍️ Create journal entries
+- 📚 Manage entries
+- 🗂️ Organize journal entries
+- 💾 Local storage
+- 🌐 Deployed with Vercel
 
 **Built with**
 
