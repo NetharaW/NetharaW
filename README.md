@@ -233,17 +233,6 @@ A personal journaling web application designed to let users create and manage th
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NetharaW&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetharaW&layout=compact&theme=midnight-purple&hide_border=true" height="170"/>
-
-<br><br>
-
-</div>
 
 ---
 
