@@ -28,10 +28,10 @@
 
 ## 👩‍💻 About Me
 
-🎓 **Computer Science Graduate**
-💻 **Software Developer**
-🤖 **AI & Generative AI Enthusiast**
-🌐 **Full-Stack Developer**
+🎓 **Computer Science Graduate** <br>
+💻 **Software Developer** <br>
+🤖 **AI & Generative AI Enthusiast** <br>
+🌐 **Full-Stack Developer** <br>
 🇶🇦 **Based in Doha, Qatar**
 
 I'm a Computer Science graduate interested in building **practical software applications, AI-powered solutions, and full-stack systems**.
