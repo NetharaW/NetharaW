@@ -42,6 +42,7 @@ I enjoy taking an idea from **concept → design → code → working applicatio
 
 ---
 
+<!-- 
 # 🚀 What I'm Building
 
 <div align="center">
@@ -75,7 +76,7 @@ The goal is to combine **ordering, inventory management, business operations, an
 ### 🧠 AI Integration
 
 I'm currently exploring how **AI can be integrated into BizOrder** to make the application more intelligent and useful for business owners.
-
+-->
 > 💡 **Goal:** Build a practical business application that combines full-stack development with useful AI capabilities.
 
 ---
